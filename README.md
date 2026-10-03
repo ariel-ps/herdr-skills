@@ -30,7 +30,8 @@ npx skills add ariel-ps/herdr-skills/skills/herdr-skills-setup -g -y --agent cur
 | Skill | Purpose |
 | --- | --- |
 | [herdr-skills-setup](skills/herdr-skills-setup/) | Install or refresh all skills in this repo |
-| [herdr-agent-talk](skills/herdr-agent-talk/) | Prompt another pane’s agent and read its reply |
+| [herdr-delegation](skills/herdr-delegation/) | Split panes, start agents, delegate plan/implement/review ([Datalumina guide](https://learn.datalumina.com/docs/herdr/delegation)) |
+| [herdr-agent-talk](skills/herdr-agent-talk/) | Prompt another pane’s agent and read its reply (blocked, stalls, fan-out) |
 
 ## Layout
 
